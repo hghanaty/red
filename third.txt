@@ -1,0 +1,11 @@
+<?php
+$user = 'a7817684_konkor';
+        $password = 'Hadi-7755148004';
+        $database = 'a7817684_konkor';
+        $host = 'mysql15.000webhost.com';
+        ?>
+$user = 'b13_16979573';
+        $password = 'Hadi@3184';
+        $database = 'b13_16979573_konkor';
+        $host = 'sql100.byethost13.com';
+
